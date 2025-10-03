@@ -17,14 +17,10 @@
 
 ### 💻 GitHub Profile Stats
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=jingtechy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=stars,issues&hide_rank=true" width="300" />
-  </a>
 </p>
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingtechy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="300" />
-  </a>
 </p>
 
 <small><i><b>Note:</b> Most used languages are based only on my public code and don't necessarily reflect depth or professional usage frequency.</i></small>

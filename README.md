@@ -1,7 +1,7 @@
 <!-- Hero typing banner -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&pause=1000&color=E95CCA&width=435&lines=Leverage+AI+to+Drive+Innovation" 
+    src="https://readme-typing-svg.demolab.com?font=Kalam&size=30&pause=1000&color=FF007F&width=435&lines=Leverage+AI+to+Drive+Innovation" 
     alt="Leverage AI to Drive Innovation animated heading" />
 </p>
 

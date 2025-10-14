@@ -29,6 +29,12 @@
 
 ### ☁️ AWS Certifications
 
+**AWS Certified Machine Learning Engineer – Associate**
+
+<p align="left">
+  <img src="images/AWS_MLA.png" alt="AWS Certified Machine Learning Engineer - Associate" width="520" />
+</p>
+
 **AWS Certified Solutions Architect – Associate**
 
 <p align="left">

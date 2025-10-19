@@ -11,6 +11,7 @@
   <!-- <img alt="Profile views" src="https://komarev.com/ghpvc/?username=jingtechy&style=flat&color=blueviolet" /> -->
   <img alt="Focus: AI Engineering" src="https://img.shields.io/badge/Focus-AI%20Engineering-f85d7f?style=flat" />
   <!-- <img alt="Status: Building" src="https://img.shields.io/badge/Status-Building-orange?style=flat" /> -->
+  <!-- <img alt="GitHub profile views counter" src="https://komarev.com/ghpvc/?username=jingbinw" /> -->
 </p>
 
 ---

@@ -33,12 +33,12 @@
 **AWS Certified Machine Learning Engineer – Associate**
 
 <p align="left">
-  <img src="images/AWS_MLA.png" alt="AWS Certified Machine Learning Engineer - Associate" width="520" />
+  <img src="images/AWS_MLA.png" alt="AWS Certified Machine Learning Engineer - Associate" width="390" />
 </p>
 
 **AWS Certified Solutions Architect – Associate**
 
 <p align="left">
-  <img src="images/AWS_SAA.png" alt="AWS Certified Solutions Architect - Associate" width="520" />
+  <img src="images/AWS_SAA.png" alt="AWS Certified Solutions Architect - Associate" width="390" />
 </p>
 

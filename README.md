@@ -14,7 +14,10 @@
   <!-- <img alt="GitHub profile views counter" src="https://komarev.com/ghpvc/?username=jingbinw" /> -->
 </p>
 
----
+<!-- Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ### 💻 GitHub Profile Stats
 <p>
@@ -25,6 +28,14 @@
 </p>
 
 <small><i><b>Note:</b> Most used languages are based only on my public code and don't necessarily reflect depth or professional usage frequency.</i></small>
+
+---
+
+## 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jingbinw&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true" />
+</p>
 
 ---
 

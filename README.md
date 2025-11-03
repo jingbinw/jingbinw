@@ -33,7 +33,7 @@
 
 ### 📅 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jingbinw&bg_color=fff5e5&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jingbinw&bg_color=000000&color=a9fef7&line=a9fef7&point=a9fef7&area=true&hide_border=true" />
 </p>
 
 ---

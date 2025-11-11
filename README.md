@@ -29,7 +29,11 @@
 
 <small><i><b>Note:</b> Most used languages are based only on my public code and don't necessarily reflect depth or professional usage frequency.</i></small>
 
----
+<!-- Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <!-- Contribution Graph -->
 <div align="center">
   
@@ -37,7 +41,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jingbinw&bg_color=000000&color=6FF8ED&line=F85D7F&point=F85D7F&area=true&hide_border=true" />
 </div>
 
----
+<!-- Divider -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <!-- AWS Certifications -->
 <div align="center">
 

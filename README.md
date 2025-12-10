@@ -24,7 +24,7 @@
   
 ### 💻 GitHub Profile Stats
 <p> <img alt="GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jingbinw&show_icons=true&include_all_commits=true&count_private=false&theme=radical&hide_border=true&bg_color=000000&title_color=F85D7F&icon_color=F8D866&text_color=6FF8ED&hide=stars,issues&hide_rank=true" width="300" /> </p> 
-<p> <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jingbinw&langs_count=15&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=F85D7F&icon_color=F8D866&text_color=6FF8ED&hide=Jupyter%20Notebook,Roff" width="300" /> </p>
+<p> <img alt="Top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jingbinw&langs_count=20&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=F85D7F&icon_color=F8D866&text_color=6FF8ED&hide=Jupyter%20Notebook,Roff" width="300" /> </p>
 </div>
 
 <small><i><b>Note:</b> Most used languages are based only on my public code and don't necessarily reflect depth or professional usage frequency.</i></small>
